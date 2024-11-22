@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
-<h3 align="center">To become a passionate full stack developer and develop the world with codes and technology.</h3>
+<h3 align="center">To become a passionate full stack developer.</h3>
+<img align="right" alt="typing" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush16512&label=Profile%20views&color=0e75b6&style=flat" alt="piyush16512" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush16512" alt="piyush16512" /></a> </p>
 
 - 🔭 I’m currently working as a **Startup Student Coordinator**
 
@@ -11,13 +10,16 @@
 
 - 👨‍💻 All of my projects are available at [https://piyush16512.github.io/my-portfolio/](https://piyush16512.github.io/my-portfolio/)
 
-- 💬 Ask me about **C, C++, DSA, Mern Dev, Canva**
+- 💬 Ask me about **C, C++, DSA, MERN Dev, Canva.**
 
 - 📫 How to reach me **piyush16512@gmail.com**
+
+- ⚡ Fun fact **I am an arrow function.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyush16512/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush16512/" height="30" width="40" /></a>
+<a href="https://instagram.com/piyush._.mallik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyush._.mallik" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/piyush16512/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyush16512/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/piyushmallik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="piyushmallik/" height="30" width="40" /></a>
 </p>
