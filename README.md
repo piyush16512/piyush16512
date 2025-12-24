@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **piyush16512@gmail.com**
 
-- ⚡ Fun fact **I am an arrow function.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyush16512/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush16512/" height="30" width="40" /></a>
