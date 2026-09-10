@@ -4,13 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush16512&label=Profile%20views&color=0e75b6&style=flat" alt="piyush16512" /> </p>
 
-- 🔭 I’m currently working as a **Startup Student Coordinator**
-
 - 🌱 I’m currently learning **Data Structures & Algorithms in Java.**
 
-- 👨‍💻 All of my projects are available at [https://piyush16512.github.io/my-portfolio/](https://piyush16512.github.io/my-portfolio/)
-
-- 💬 Ask me about **C, C++, DSA, MERN Dev, Canva.**
+- 💬 Ask me about **Java, DSA, SQL.**
 
 - 📫 How to reach me **piyush16512@gmail.com**
 
