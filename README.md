@@ -1,24 +1,124 @@
-<h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
-<h3 align="center">To become a passionate full stack developer.</h3>
-<img align="right" alt="typing" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+# Hi 👋, I'm Piyush Kumar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush16512&label=Profile%20views&color=0e75b6&style=flat" alt="piyush16512" /> </p>
+### Software Developer | Java | SQL | Backend Development
 
-- 🌱 I’m currently learning **Data Structures & Algorithms in Java.**
+🎓 B.Tech CSE Graduate (Data Science)
+🏆 GATE 2026 Qualified (Score: 358)
+💻 Backend Developer with experience building APIs, database-driven applications, and solving DSA problems in Java.
+🚀 Interested in Software Development, Backend Engineering, and Problem Solving.
 
-- 💬 Ask me about **Java, DSA, SQL.**
+---
 
-- 📫 How to reach me **piyush16512@gmail.com**
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/piyush16512/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush16512/" height="30" width="40" /></a>
-<a href="https://instagram.com/piyush._.mallik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyush._.mallik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/piyush16512/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyush16512/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/piyushmallik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="piyushmallik/" height="30" width="40" /></a>
-</p>
+* 🌱 Currently learning **Spring Boot, AWS, and Advanced DSA in Java**
+* 💡 Interested in **Backend Development, Databases, REST APIs, and System Design**
+* 🔭 Building projects to strengthen software engineering fundamentals
+* 💬 Ask me about **Java, SQL, Node.js, Express.js, and DSA**
+* 📫 Reach me at: **[piyush16512@gmail.com](mailto:piyush16512@gmail.com)**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush16512&show_icons=true&locale=en&layout=compact" alt="piyush16512" /></p>
+## 🛠️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=mysql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 AI Spend Calculator
+
+Personal finance tracking web application built using Python, Streamlit, SQLite, Pandas, and NumPy.
+
+**Key Features**
+
+* Budget tracking and expense categorization
+* User authentication and transaction management
+* Spending insights and analytics dashboard
+
+🔗 Repository: https://github.com/piyush16512/ai-spend-calculator
+
+🔗 Live Demo: https://ai-spend-calculator.streamlit.app
+
+---
+
+### 🚗 Real-Time Driver Monitoring System
+
+AI-powered driver safety system using OpenCV, MediaPipe, and YOLOv8.
+
+**Key Features**
+
+* Drowsiness detection
+* Phone usage monitoring
+* Smoking detection alerts
+* Real-time webcam-based monitoring
+
+🔗 Repository: https://github.com/piyush16512/real-time-driver-monitoring-system
+
+---
+
+### 📈 Automobile Sales Analysis
+
+Exploratory Data Analysis project on automobile sales data using Python.
+
+**Key Features**
+
+* Data cleaning and preprocessing
+* Sales trend analysis
+* Data visualization using Matplotlib and Seaborn
+
+🔗 Repository: https://github.com/piyush16512/eda-sales-analysis
+
+---
+
+## 📚 Coding Profiles
+
+* LeetCode: https://leetcode.com/u/piyush16512/
+* GeeksforGeeks: https://auth.geeksforgeeks.org/user/piyushmallik/
+
+---
+
+## 🤝 Connect With Me
+
+<a href="https://linkedin.com/in/piyush16512">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:piyush16512@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=piyush16512\&show_icons=true\&theme=default)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush16512\&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=piyush16512)
+
+---
+
+### 💡 Quote
+
+> "Consistency in learning and building projects creates opportunities."
