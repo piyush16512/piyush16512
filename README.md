@@ -3,18 +3,17 @@
 ### Software Developer | Java | SQL | Backend Development
 
 🎓 B.Tech CSE Graduate (Data Science)
-🏆 GATE 2026 Qualified (Score: 358)
-💻 Backend Developer with experience building APIs, database-driven applications, and solving DSA problems in Java.
+💻 Backend Developer with building APIs, database-driven applications and solving DSA problems in Java.
 🚀 Interested in Software Development, Backend Engineering, and Problem Solving.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🌱 Currently learning **Spring Boot, AWS, and Advanced DSA in Java**
+* 🌱 Currently learning **React, Hibernate, JDBC, Spring Boot, AWS and Advanced DSA in Java**
 * 💡 Interested in **Backend Development, Databases, REST APIs, and System Design**
 * 🔭 Building projects to strengthen software engineering fundamentals
-* 💬 Ask me about **Java, SQL, Node.js, Express.js, and DSA**
+* 💬 Ask me about **Java, SQL, OOPs, Collection Frameworks and DSA**
 * 📫 Reach me at: **[piyush16512@gmail.com](mailto:piyush16512@gmail.com)**
 
 ---
@@ -26,14 +25,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### Backend & Database
+### Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ### Tools
 
@@ -73,20 +68,6 @@ AI-powered driver safety system using OpenCV, MediaPipe, and YOLOv8.
 * Real-time webcam-based monitoring
 
 🔗 Repository: https://github.com/piyush16512/real-time-driver-monitoring-system
-
----
-
-### 📈 Automobile Sales Analysis
-
-Exploratory Data Analysis project on automobile sales data using Python.
-
-**Key Features**
-
-* Data cleaning and preprocessing
-* Sales trend analysis
-* Data visualization using Matplotlib and Seaborn
-
-🔗 Repository: https://github.com/piyush16512/eda-sales-analysis
 
 ---
 
